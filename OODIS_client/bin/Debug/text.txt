@@ -1,0 +1,6 @@
+this is text 1 line
+this is text 2 line
+sleep 10000
+transfer c:\ocbc_stuffs\a.txt C:\ocbc_stuffs\b.txt
+runbatch c:\ocbc_stuffs\run_dir.bat para1
+where

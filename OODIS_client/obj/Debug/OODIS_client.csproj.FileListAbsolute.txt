@@ -1,0 +1,6 @@
+C:\Users\wongls\source\repos\OODIS_client\OODIS_client\bin\Debug\OODIS_client.exe
+C:\Users\wongls\source\repos\OODIS_client\OODIS_client\bin\Debug\OODIS_client.pdb
+C:\Users\wongls\source\repos\OODIS_client\OODIS_client\obj\Debug\OODIS_client.csproj.CoreCompileInputs.cache
+C:\Users\wongls\source\repos\OODIS_client\OODIS_client\obj\Debug\OODIS_client.exe
+C:\Users\wongls\source\repos\OODIS_client\OODIS_client\obj\Debug\OODIS_client.pdb
+C:\Users\wongls\source\repos\OODIS_client\OODIS_client\obj\Debug\OODIS_client.csprojAssemblyReference.cache
