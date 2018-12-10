@@ -1,4 +1,0 @@
-whoami
-runbatch
-sleep 95000
-whoami
