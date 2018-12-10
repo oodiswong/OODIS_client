@@ -1,0 +1,4 @@
+whoami
+runbatch /ocbc_stuffs/ret_value.bat /ocbc_stuffs/a.txt ll
+sleep 95000
+whoami
